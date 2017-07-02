@@ -14,7 +14,7 @@ import view.ViewDsatur;
  * the problem of coloring a graph. In this implementation, we are able to
  * see the graph and interact with it, making it easier to check which
  * vertexes are the adjacent ones.
- * The implementation was purposed by Prof. Ricardo Lüders <luders@utfpr.edu.br>
+ * The implementation was proposed by Prof. Ricardo LÃ¼ders <luders@utfpr.edu.br>
  */
 
 @SuppressWarnings("restriction")
